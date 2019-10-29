@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>README</title>
+  <link rel="stylesheet" href="https://stackedit.io/style.css" />
+</head>
+
+<body class="stackedit">
+  <div class="stackedit__html"><h1 id="iot-lab1">IOT LAB1</h1>
+<p>Conclusion</p>
+<p>In the lab, our team have completed the following tasks: LED blinking, breathing LED, active buzzle, RGB LED, analog input.</p>
+<p>The code is mainly composed of two methods: the “setup” method and the “loop” method.</p>
+<p>By building the circuit on the mini bread and connecting UNO R3 with the corresponding port via jumper wires, we can upload the code to UNO R3 and mini bread.</p>
+<h1 id="diagrams">DIAGRAMS</h1>
+<p>LED Blink&amp; Breakblink &amp; Breathing<br>
+<img src="https://github.com/efrei-paris-sud/hello-water/blob/master/image_lab1/led1.png" alt="enter image description here"><br>
+LEG RGB<br>
+<a href="https://github.com/efrei-paris-sud/hello-water/blob/master/image_lab1/ledrgb.jpg">https://github.com/efrei-paris-sud/hello-water/blob/master/image_lab1/ledrgb.jpg</a><br>
+Button<br>
+<a href="https://github.com/efrei-paris-sud/hello-water/blob/master/image_lab1/botton.png">https://github.com/efrei-paris-sud/hello-water/blob/master/image_lab1/botton.png</a><br>
+Buzzer<br>
+<a href="https://github.com/efrei-paris-sud/hello-water/blob/master/image_lab1/buzzer.png">https://github.com/efrei-paris-sud/hello-water/blob/master/image_lab1/buzzer.png</a><br>
+Analog input<br>
+<a href="https://github.com/efrei-paris-sud/hello-water/blob/master/image_lab1/button.jpg">https://github.com/efrei-paris-sud/hello-water/blob/master/image_lab1/button.jpg</a></p>
+<blockquote>
+<p>Written with <a href="https://stackedit.io/">StackEdit</a>.</p>
+</blockquote>
+</div>
+</body>
+
+</html>
