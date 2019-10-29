@@ -1,0 +1,7 @@
+In the lab, our team have completed the following tasks: LED blinking, breasing LED, active buzzle, RGB LED, analog input.
+
+The code is mainly composed of two methods: the"setup"method and the "loop" method.
+
+By building the circuit on the mini bread and connecting UNO R3 with the coresponding port via jumper wires, we can upload the
+code to UNO R3 and mini bread.
+
