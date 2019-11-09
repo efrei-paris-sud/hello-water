@@ -16,7 +16,7 @@
 <p>By building the circuit on the mini bread and connecting UNO R3 with the corresponding port via jumper wires, we can upload the code to UNO R3 and mini bread.</p>
 <h1 id="diagrams">DIAGRAMS</h1>
 <p>LED Blink&amp; Breakblink &amp; Breathing<br>
-<img src="https://github.com/efrei-paris-sud/hello-water/blob/master/image_lab1/led1.png" alt="LED"></p>
+<img src="https://github.com/efrei-paris-sud/hello-water/blob/master/Lab/1/image_lab1/led1.png" alt="LED"></p>
 
 <p>LEG_RGB<br>
 <img src="https://github.com/efrei-paris-sud/hello-water/blob/master/Lab/1/image_lab1/rgb.png" alt="RGB"></p>
