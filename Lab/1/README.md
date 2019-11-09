@@ -16,15 +16,16 @@
 <p>By building the circuit on the mini bread and connecting UNO R3 with the corresponding port via jumper wires, we can upload the code to UNO R3 and mini bread.</p>
 <h1 id="diagrams">DIAGRAMS</h1>
 <p>LED Blink&amp; Breakblink &amp; Breathing<br>
-<img src="https://github.com/efrei-paris-sud/hello-water/blob/master/image_lab1/led1.png" alt="enter image description here"></p>
-<p>LEG RGB<br>
-<img src="%5Bhttps://github.com/efrei-paris-sud/hello-water/blob/master/image_lab1/rgb.png%5D" alt="enter image description here"></p>
+<img src="https://github.com/efrei-paris-sud/hello-water/blob/master/image_lab1/led1.png" alt="LED"></p>
+
+<p>LEG_RGB<br>
+<img src="https://github.com/efrei-paris-sud/hello-water/blob/master/Lab/1/image_lab1/rgb.png" alt="RGB"></p>
 <p>Button<br>
-<img src="%5Bhttps://github.com/efrei-paris-sud/hello-water/blob/master/image_lab1/botton.png%5D" alt="enter image description here"></p>
+<img src="https://github.com/efrei-paris-sud/hello-water/blob/master/Lab/1/image_lab1/botton.png" alt="BUTT"></p>
 <p>Buzzer<br>
-<img src="%5Bhttps://github.com/efrei-paris-sud/hello-water/blob/master/image_lab1/buzzer.png%5D" alt="enter image description here"></p>
+<img src="https://github.com/efrei-paris-sud/hello-water/blob/master/Lab/1/image_lab1/buzzer.png" alt="BUZZ"></p>
 <p>Analog input<br>
-<img src="%5Bhttps://github.com/efrei-paris-sud/hello-water/blob/master/image_lab1/analog.png%5D" alt="enter image description here"></p>
+<img src="https://github.com/efrei-paris-sud/hello-water/blob/master/Lab/1/image_lab1/analog.png" alt="ANAL"></p>
 <blockquote>
 <p>Written with <a href="https://stackedit.io/">StackEdit</a>.</p>
 </blockquote>
