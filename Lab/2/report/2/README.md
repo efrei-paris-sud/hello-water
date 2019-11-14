@@ -15,7 +15,7 @@
 <h1 id="pics">Pics</h1>
 <h2 id="buzzer">Buzzer</h2>
 <p>Physical connection of the Buzzer circuit<br>
-<img src="https://github.com/efrei-paris-sud/hello-water/tree/master/Lab/2/report/2/physical.jpg" alt="enter image description here"></p>
+<img src="https://github.com/efrei-paris-sud/hello-water/blob/master/Lab/2/report/2/physica.jpg" alt="enter image description here"></p>
 <p>Sketch Pic of the buzzer</p>
 <p><img src="https://github.com/efrei-paris-sud/hello-water/blob/master/Lab/2/report/2/sketch.png" alt="enter image description here"></p>
 <h2 id="ldr">LDR</h2>
