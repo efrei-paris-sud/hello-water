@@ -17,11 +17,16 @@
 <p>Physical connection of the Buzzer circuit<br>
 <img src="https://github.com/efrei-paris-sud/hello-water/blob/master/Lab/2/report/2/physica.jpg" alt="enter image description here"></p>
 <p>Sketch Pic of the buzzer</p>
+<p>Code description</p>
+<p>In this part,our code managed to help realize the function of communicating between the device and our local mechine.First to get a input from the computer and it's restricted to be a integer. Then this output number is sent to the device as the frequence of the buzzer.</p>
 <p><img src="https://github.com/efrei-paris-sud/hello-water/blob/master/Lab/2/report/2/sketch.png" alt="enter image description here"></p>
 <h2 id="ldr">LDR</h2>
 <p>Plots<br>
+  
 <img src="https://github.com/efrei-paris-sud/hello-water/blob/master/Lab/2/report/2/plot.png" alt="enter image description here"><br>
 <img src="https://github.com/efrei-paris-sud/hello-water/blob/master/Lab/2/report/2/plot2.png" alt="enter image description here"></p>
+<p>Code description</p>
+<p>In this part,our code managed to help realize the function of outputting the data from LDR.First we read the raw data  from LDR and then sent it to python to get the plot of the data.</p>
 </div>
 </body>
 
