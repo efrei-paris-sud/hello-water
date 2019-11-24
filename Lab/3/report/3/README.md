@@ -15,7 +15,7 @@
 No problem encountered and the code is in the folder.</p>
 <h1 id="pics">Pics</h1>
 <h2 id="sketch">Sketch</h2>
-<p><img src="https://github.com/efrei-paris-sud/hello-water/blob/master/Lab/3/report/3/Sketch3.png" alt="enter image description here"></p>
+<p><img src="https://github.com/efrei-paris-sud/hello-water/blob/master/Lab/3/report/3/sketch3.png" alt="enter image description here"></p>
 
 <blockquote>
 <p>Written with <a href="https://stackedit.io/">StackEdit</a>.</p>
